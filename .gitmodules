@@ -1,0 +1,3 @@
+[submodule "lib/RandomRoutine"]
+	path = lib/RandomRoutine
+	url = git@github.com:abhayma1000/RandomRoutine.git
